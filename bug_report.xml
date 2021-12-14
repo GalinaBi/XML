@@ -1,0 +1,10 @@
+<ID>001</ID>
+ <Summary>The button & QuotLogin page& Quot is displaced after clicking on the page</Summary>
+  <Expected result>The button & QuotLogin page& Quot is located on the page according to mockups</Expected result>
+  <Actually result>The button & QuotLogin page& Quot is displaced after clicking on the page</Actually result>
+  <Step to reproduse>1. Open the login page 2. Click on the page jn any place"</Step to reproduse>
+  <Severity>Trivial</Severity>
+  <Priority>Low</Priority>
+  <Environment>Windows 10x64 Google Chrome v.96.0.4664.93  64 bit</Environment>
+  <Reporter>Galina</Reporter>
+  
